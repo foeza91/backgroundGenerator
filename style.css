@@ -1,6 +1,15 @@
-body{
+*{
   margin: 0;
   padding: 0;
+}
+body{
+
   text-align:center;
-  background: #blue
+  background: white;
+}
+h1{
+  margin:20px
+}
+.info{
+  margin-top:50px;
 }
